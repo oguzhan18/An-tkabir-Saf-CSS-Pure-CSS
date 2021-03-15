@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(26, 25, 25);
+}
+.ort{
+    position: absolute;
+    left:20%;
+}
+.ust_1{
+    margin-top: 20px;
+    width: 50pc;
+    height:10px;
+    background-color: rgb(253, 216, 113);
+    
+}
+.ust_2{       
+    margin-left: 1%;
+    width: 49pc;
+    height:10px;
+    background-color: rgb(253, 216, 113);
+
+}
+.ust_3{
+    margin-left:2%;
+    width: 48pc;
+    height:10px;
+    background-color: rgb(253, 216, 113);
+}
+.ort_kalin{
+    margin-left: 3%;
+    border-bottom:5px solid black;
+    width: 47pc;
+    height:20px;
+    background-color: rgb(253, 216, 113);
+}
+.direk_1{
+    float: left;
+    width: 50px;
+    height:450px;
+    background-color: rgb(253, 216, 113);
+}
+.direk_2{
+    float: left;
+    margin-left: 40px;
+    width: 20px;
+    height:450px;
+    background-color: rgb(253, 216, 113);
+}
+.direk_3{
+    float: left;
+    margin-left: 40px;
+    width: 20px;
+    height:450px;
+    background-color: rgb(253, 216, 113);
+}
+.direk_4{
+    float: left;
+    margin-left: 40px;
+    width: 20px;
+    height:450px;
+    background-color: rgb(253, 216, 113);
+}
+.direk_5{
+    float: left;
+    margin-left: 40px;
+    width: 20px;
+    height:450px;
+    background-color: rgb(253, 216, 113);
+}
+.direk_6{
+    float: left;
+    margin-left: 172px;
+    width: 20px;
+    height:450px;
+    background-color: rgb(253, 216, 113);
+}
+.direk_7{
+    float: left;
+    margin-left: 40px;
+    width: 20px;
+    height:450px;
+    background-color: rgb(253, 216, 113);
+}.direk_8{
+    float: left;
+    margin-left: 40px;
+    width: 20px;
+    height:450px;
+    background-color: rgb(253, 216, 113);
+}.direk_9{
+    float: left;
+    margin-left: 40px;
+    width: 20px;
+    height:450px;
+    background-color: rgb(253, 216, 113);
+}.direk_10{
+    float: left;
+    margin-left: 40px;
+    width: 50px;
+    height:450px;
+    background-color: rgb(253, 216, 113);
+}
+.merdiven_1{
+    height: 10px;
+    width: 54pc;
+    background-color: rgb(253, 216, 113);
+    position: absolute;
+    top:100%;
+    left: -30px;
+}
+.merdiven_2{
+    height: 15px;
+    width: 55pc;
+    background-color: rgb(253, 216, 113);
+    position: absolute;
+    top:102%;
+    left: -40px;
+}
+.merdiven_3{
+    height: 15px;
+    width: 59pc;
+    background-color: rgb(253, 216, 113);
+    position: absolute;
+    top:107%;
+    left: -70px;
+}
+.merdiven_4{
+    height: 15px;
+    width: 63pc;
+    background-color: rgb(253, 216, 113);
+    position: absolute;
+    top:112%;
+    left: -100px;
+}
+.merdiven_5{
+    height: 15px;
+    width: 67pc;
+    background-color: rgb(253, 216, 113);
+    position: absolute;
+    top:117%;
+    left: -120px;
+}
+.merdiven_6{
+    height: 15px;
+    width: 70pc;
+    background-color: rgb(253, 216, 113);
+    position: absolute;
+    top:122%;
+    left: -140px;
+}
+.merdiven_7{
+    height: 15px;
+    width: 73pc;
+    background-color: rgb(253, 216, 113);
+    position: absolute;
+    top:127%;
+    left: -160px;
+}
+.merdiven_8{
+    height: 15px;
+    width: 75pc;
+    background-color: rgb(253, 216, 113);
+    position: absolute;
+    top:132%;
+    left: -180px;
+}
+.bayrak{
+    width: 120px;
+    height: 200px;
+    background-color: orangered;
+    position: absolute;
+    left: 340px;
+    top:80px;
+}
+.barak_hilal{
+    font-size: 200px;
+    margin-top:-55px;
+    margin-left:8px;
+}
+.barak_kapatici{
+    background-color: orangered;
+    width:100px;
+    height: 80px;
+    position:absolute;
+    left: 10px;
+    top:90px;
+}
+.barak_yildiz{
+    font-size: 100px;
+    position: absolute;
+    top:60px;
+    left:14px;
+}
